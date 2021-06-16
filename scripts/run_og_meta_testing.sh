@@ -47,7 +47,7 @@ args=(
 
     --normalizer softmax \
     --normalizer_temp_anneal_mode linear \
-    --normalizer_t_min 0.05 \
+    --normalizer_t_min 0.1 \
     --normalizer_t_max 1.0 \
     --drop_path_prob 0.2 \
 

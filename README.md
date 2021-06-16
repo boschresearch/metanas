@@ -1,8 +1,7 @@
 # Meta-Learning of Neural Architectures for Few-Shot Learning
 
 
-This is the implmentation for [Meta-Learning of Neural Architectures for Few-Shot Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Elsken_Meta-Learning_of_Neural_Architectures_for_Few-Shot_Learning_CVPR_2020_paper.html).
-
+This is the implmentation for [Meta-Learning of Neural Architectures for Few-Shot Learning](https://arxiv.org/pdf/1911.11090.pdf).
 
 
 ## Requirements and Setup
